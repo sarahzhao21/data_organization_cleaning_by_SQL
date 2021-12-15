@@ -3,7 +3,7 @@ a project about data cleaning
 Although some of the Python packages(pandas, numpy) is very powerful for data cleaning, SQL is also very useful and convinient for data cleaning. In this project, I will use postgreSQL to do the data organization, management and cleaning.   
 
 ## Data Resource
-The raw data is downloaded from [Nashville Housing Data](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/c5e3ef749de46802a5ac89a0e22daeb60cfc0481/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx). The csv file converted from the raw data is [here].  (https://github.com/sarahzhao21/data_organization_cleaning_by_SQL/blob/8e1af8c9b763044624293e6f8162621e3d4833dc/Nashville%20Housing.csv)
+The raw data is downloaded from [Nashville Housing Data](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/c5e3ef749de46802a5ac89a0e22daeb60cfc0481/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx). The csv file converted from the raw data is [here](https://github.com/sarahzhao21/data_organization_cleaning_by_SQL/blob/8e1af8c9b763044624293e6f8162621e3d4833dc/Nashville%20Housing.csv).  
 Because this project is more like an excercise, any data that includes date, time and strings datatypes would be good for this analysis.   
 
 ## Content
